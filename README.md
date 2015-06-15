@@ -1,0 +1,3 @@
+# Aurororal-Forces
+My first modding attempt, used as a way to learn to code.
+It might become a thing...
